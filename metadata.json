@@ -1,0 +1,5 @@
+{
+  "name": "Wobble Warriors: Flimsy Fighting Championship",
+  "description": "A physics-based, 2D local multiplayer fighting game where wobbly, bean-like characters battle in a candy-colored arena. Features AI-generated trash talk and personalities powered by Gemini.",
+  "requestFramePermissions": []
+}
